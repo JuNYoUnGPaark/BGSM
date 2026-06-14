@@ -25,7 +25,6 @@ pandas==2.2.2
 scikit-learn==1.6.1
 matplotlib==3.10.0
 seaborn==0.13.2
-fvcore==0.1.5.post20221221
 ```
 To install all required packages:
 ```
